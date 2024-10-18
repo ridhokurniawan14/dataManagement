@@ -1,4 +1,4 @@
-**File Organizer and Duplicate Cleaner**
+**File Organizer and Duplicate Cleaner**<br>
 This Python-based application helps to organize your files automatically by creating appropriate folders and sorting files into them. Additionally, it identifies and removes duplicate files, ensuring your directories stay neat and clutter-free.
 
 **Features:**
